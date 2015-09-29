@@ -1,3 +1,3 @@
 <%@ page import="dk.vestigo.Test" %>
-FOOTEST 3:
+FOOTEST 4:
 <%=new Test().getFoo()%>
